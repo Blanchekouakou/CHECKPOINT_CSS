@@ -1,0 +1,29 @@
+.logo{
+    text-align: center;
+    margin-right: 160px;
+
+}
+
+.active{
+    color:#00b39b !important;
+
+}
+
+.title{
+    color: #00b39b;
+}
+
+.paraph{
+    padding-left: 260px;
+    padding-right: 280px;
+}
+.img{text-align: center;
+
+}
+.city-footer{
+    display:flex;
+    justify-content:space-between;
+}
+.box-shadow:hover{
+    box-shadow: 10px 10px 10px 10px #5f6d6b !important; 
+}
